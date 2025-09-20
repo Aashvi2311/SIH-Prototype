@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.env
+
+# Flask
+instance/
+*.db
+*.sqlite
+
+# Logs
+*.log
+app.log
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# OS
+.DS_Store
+.Trash/
+
+# IDE
+.vscode/
+.idea/
+
+# Debug files
+debug_verification.py

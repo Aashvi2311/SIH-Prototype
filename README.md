@@ -113,29 +113,11 @@ The system comes with pre-populated data from 5 Jharkhand institutions:
 - Request logging and monitoring
 - Suspicious activity detection
 
-## 🌐 Deployment Options
+## 🚀 Future Enhancements
 
-### 1. **Heroku (Recommended for beginners)**
-```bash
-# Install Heroku CLI and login
-heroku create your-app-name
-git push heroku main
-```
-
-### 2. **Railway**
-- Connect your GitHub repo to Railway
-- Deploy with zero configuration
-
-### 3. **Vercel/Netlify + Backend API**
-- Deploy frontend to Vercel/Netlify
-- Deploy API to Railway/Heroku
-
-### 4. **VPS/Cloud Server**
-```bash
-# Using Gunicorn
-pip install gunicorn
-gunicorn -w 4 -b 0.0.0.0:8000 app:app
-```
+- AI based forgery detection
+- Regional Language Support
+- Blockchain Integration
 
 ## 📝 Environment Variables
 
@@ -147,29 +129,7 @@ UPLOAD_FOLDER=uploads
 MAX_CONTENT_LENGTH=16777216
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team Oorja
-
-- **Project Lead**: [Your Name]
-- **Development Team**: Team Oorja
-- **Institution**: Government of Jharkhand - Department of Higher and Technical Education
-
-## 🙏 Acknowledgments
-
-- Government of Jharkhand for project support
-- Educational institutions of Jharkhand for data collaboration
-- Open source OCR and ML communities
 
 ---
 

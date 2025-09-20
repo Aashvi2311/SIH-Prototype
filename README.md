@@ -129,10 +129,3 @@ UPLOAD_FOLDER=uploads
 MAX_CONTENT_LENGTH=16777216
 ```
 
-
-
----
-
-**⭐ Star this repository if you find it helpful!**
-
-For questions or support, please open an issue or contact Team Oorja.
